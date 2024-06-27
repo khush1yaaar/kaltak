@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "396315402606",
+    "project_id": "kaltak-890cb",
+    "storage_bucket": "kaltak-890cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396315402606:android:8a256d018e92a3d56ca17f",
+        "android_client_info": {
+          "package_name": "com.example.kaltak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW93sbhfxDU68aAaLDhqp4FcNPEoDDtsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
